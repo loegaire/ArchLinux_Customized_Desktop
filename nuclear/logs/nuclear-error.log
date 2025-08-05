@@ -1,0 +1,251 @@
+[12/09/2023-13:40:9]main > Could not clear discord activity
+[12/09/2023-13:40:12]main > TypeError: Cannot read property 'write' of null
+    at e.exports.send (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/transports/ipc.js:155:17)
+    at /opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:166:22
+    at new Promise (<anonymous>)
+    at e.exports.request (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:164:12)
+    at e.exports.clearActivity (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:550:17)
+    at h.clear (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/services/discord/index.ts:105:24)
+    at y.name [as onClearTrackList] (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/controllers/player.ts:66:26)
+    at IpcMainImpl.<anonymous> (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/utils/container.ts:57:39)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:161:9715)
+    at Object.emit (events.js:315:20)[12/09/2023-13:40:12]main > error trying to set discord activity
+[12/09/2023-13:40:45]main > Could not clear discord activity
+[12/09/2023-13:40:45]main > TypeError: Cannot read property 'write' of null
+    at e.exports.send (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/transports/ipc.js:155:17)
+    at /opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:166:22
+    at new Promise (<anonymous>)
+    at e.exports.request (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:164:12)
+    at e.exports.clearActivity (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:550:17)
+    at h.clear (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/services/discord/index.ts:105:24)
+    at y.name [as onClearTrackList] (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/controllers/player.ts:66:26)
+    at IpcMainImpl.<anonymous> (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/utils/container.ts:57:39)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:161:9715)
+    at Object.emit (events.js:315:20)[12/09/2023-13:40:49]main > Could not clear discord activity
+[12/09/2023-13:40:49]main > TypeError: Cannot read property 'write' of null
+    at e.exports.send (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/transports/ipc.js:155:17)
+    at /opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:166:22
+    at new Promise (<anonymous>)
+    at e.exports.request (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:164:12)
+    at e.exports.clearActivity (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:550:17)
+    at h.clear (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/services/discord/index.ts:105:24)
+    at y.name [as onClearTrackList] (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/controllers/player.ts:66:26)
+    at IpcMainImpl.<anonymous> (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/utils/container.ts:57:39)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:161:9715)
+    at Object.emit (events.js:315:20)[12/09/2023-13:40:49]main > error trying to set discord activity
+[12/09/2023-13:44:53]main > error trying to set discord activity
+[12/09/2023-13:44:53]main > error trying to set discord activity
+[12/09/2023-13:44:53]main > error trying to set discord activity
+[12/09/2023-13:48:53]main > error trying to set discord activity
+[12/09/2023-13:48:53]main > error trying to set discord activity
+[12/09/2023-13:48:53]main > error trying to set discord activity
+[12/09/2023-13:52:11]main > error trying to set discord activity
+[12/09/2023-13:52:11]main > error trying to set discord activity
+[12/09/2023-13:52:11]main > error trying to set discord activity
+[12/09/2023-13:54:36]main > error trying to set discord activity
+[12/09/2023-13:54:36]main > error trying to set discord activity
+[12/09/2023-13:54:36]main > error trying to set discord activity
+[12/09/2023-14:2:55]main > Could not clear discord activity
+[12/09/2023-14:2:55]main > TypeError: Cannot read property 'write' of null
+    at e.exports.send (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/transports/ipc.js:155:17)
+    at /opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:166:22
+    at new Promise (<anonymous>)
+    at e.exports.request (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:164:12)
+    at e.exports.clearActivity (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:550:17)
+    at h.clear (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/services/discord/index.ts:105:24)
+    at y.name [as onClearTrackList] (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/controllers/player.ts:66:26)
+    at IpcMainImpl.<anonymous> (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/utils/container.ts:57:39)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:161:9715)
+    at Object.emit (events.js:315:20)[12/09/2023-14:2:55]main > error trying to set discord activity
+[12/09/2023-14:6:46]main > error trying to set discord activity
+[12/09/2023-14:6:46]main > error trying to set discord activity
+[12/09/2023-14:6:46]main > error trying to set discord activity
+[12/09/2023-14:6:53]main > error trying to set discord activity
+[12/09/2023-14:10:6]main > Could not clear discord activity
+[12/09/2023-14:10:6]main > TypeError: Cannot read property 'write' of null
+    at e.exports.send (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/transports/ipc.js:155:17)
+    at /opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:166:22
+    at new Promise (<anonymous>)
+    at e.exports.request (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:164:12)
+    at e.exports.clearActivity (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:550:17)
+    at h.clear (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/services/discord/index.ts:105:24)
+    at y.name [as onClearTrackList] (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/controllers/player.ts:66:26)
+    at IpcMainImpl.<anonymous> (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/utils/container.ts:57:39)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:161:9715)
+    at Object.emit (events.js:315:20)[12/09/2023-14:10:6]main > error trying to set discord activity
+[12/09/2023-14:10:46]main > Could not clear discord activity
+[12/09/2023-14:10:46]main > TypeError: Cannot read property 'write' of null
+    at e.exports.send (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/transports/ipc.js:155:17)
+    at /opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:166:22
+    at new Promise (<anonymous>)
+    at e.exports.request (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:164:12)
+    at e.exports.clearActivity (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:550:17)
+    at h.clear (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/services/discord/index.ts:105:24)
+    at y.name [as onClearTrackList] (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/controllers/player.ts:66:26)
+    at IpcMainImpl.<anonymous> (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/utils/container.ts:57:39)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:161:9715)
+    at Object.emit (events.js:315:20)[12/09/2023-14:11:17]main > Could not clear discord activity
+[12/09/2023-14:11:17]main > TypeError: Cannot read property 'write' of null
+    at e.exports.send (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/transports/ipc.js:155:17)
+    at /opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:166:22
+    at new Promise (<anonymous>)
+    at e.exports.request (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:164:12)
+    at e.exports.clearActivity (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:550:17)
+    at h.clear (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/services/discord/index.ts:105:24)
+    at y.name [as onClearTrackList] (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/controllers/player.ts:66:26)
+    at IpcMainImpl.<anonymous> (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/utils/container.ts:57:39)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:161:9715)
+    at Object.emit (events.js:315:20)[12/09/2023-14:11:17]main > error trying to set discord activity
+[12/09/2023-14:14:59]main > error trying to set discord activity
+[12/09/2023-14:14:59]main > error trying to set discord activity
+[12/09/2023-14:14:59]main > error trying to set discord activity
+[12/09/2023-14:16:36]main > Could not clear discord activity
+[12/09/2023-14:16:36]main > TypeError: Cannot read property 'write' of null
+    at e.exports.send (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/transports/ipc.js:155:17)
+    at /opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:166:22
+    at new Promise (<anonymous>)
+    at e.exports.request (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:164:12)
+    at e.exports.clearActivity (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:550:17)
+    at h.clear (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/services/discord/index.ts:105:24)
+    at App.<anonymous> (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/main.ts:116:19)
+    at App.emit (events.js:327:22)[12/09/2023-19:39:15]main > Could not clear discord activity
+[12/09/2023-19:39:17]main > TypeError: Cannot read property 'write' of null
+    at e.exports.send (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/transports/ipc.js:155:17)
+    at /opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:166:22
+    at new Promise (<anonymous>)
+    at e.exports.request (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:164:12)
+    at e.exports.clearActivity (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:550:17)
+    at h.clear (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/services/discord/index.ts:105:24)
+    at App.<anonymous> (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/main.ts:116:19)
+    at App.emit (events.js:327:22)[14/09/2023-23:4:13]main > Could not clear discord activity
+[14/09/2023-23:4:17]main > TypeError: Cannot read property 'write' of null
+    at e.exports.send (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/transports/ipc.js:155:17)
+    at /opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:166:22
+    at new Promise (<anonymous>)
+    at e.exports.request (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:164:12)
+    at e.exports.clearActivity (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:550:17)
+    at h.clear (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/services/discord/index.ts:105:24)
+    at y.name [as onClearTrackList] (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/controllers/player.ts:66:26)
+    at IpcMainImpl.<anonymous> (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/utils/container.ts:57:39)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:161:9715)
+    at Object.emit (events.js:315:20)[14/09/2023-23:4:17]main > error trying to set discord activity
+[14/09/2023-23:8:0]main > error trying to set discord activity
+[14/09/2023-23:8:0]main > error trying to set discord activity
+[14/09/2023-23:8:0]main > error trying to set discord activity
+[14/09/2023-23:9:5]main > Could not clear discord activity
+[14/09/2023-23:9:5]main > TypeError: Cannot read property 'write' of null
+    at e.exports.send (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/transports/ipc.js:155:17)
+    at /opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:166:22
+    at new Promise (<anonymous>)
+    at e.exports.request (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:164:12)
+    at e.exports.clearActivity (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:550:17)
+    at h.clear (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/services/discord/index.ts:105:24)
+    at y.name [as onClearTrackList] (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/controllers/player.ts:66:26)
+    at IpcMainImpl.<anonymous> (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/utils/container.ts:57:39)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:161:9715)
+    at Object.emit (events.js:315:20)[14/09/2023-23:9:5]main > error trying to set discord activity
+[14/09/2023-23:9:34]main > error trying to set discord activity
+[14/09/2023-23:9:42]main > error trying to set discord activity
+[14/09/2023-23:14:17]main > error trying to set discord activity
+[14/09/2023-23:14:17]main > error trying to set discord activity
+[14/09/2023-23:14:17]main > error trying to set discord activity
+[14/09/2023-23:18:31]main > Could not clear discord activity
+[14/09/2023-23:18:31]main > TypeError: Cannot read property 'write' of null
+    at e.exports.send (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/transports/ipc.js:155:17)
+    at /opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:166:22
+    at new Promise (<anonymous>)
+    at e.exports.request (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:164:12)
+    at e.exports.clearActivity (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:550:17)
+    at h.clear (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/services/discord/index.ts:105:24)
+    at y.name [as onClearTrackList] (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/controllers/player.ts:66:26)
+    at IpcMainImpl.<anonymous> (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/utils/container.ts:57:39)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:161:9715)
+    at Object.emit (events.js:315:20)[14/09/2023-23:18:31]main > error trying to set discord activity
+[14/09/2023-23:23:34]main > error trying to set discord activity
+[14/09/2023-23:23:34]main > error trying to set discord activity
+[14/09/2023-23:23:34]main > error trying to set discord activity
+[14/09/2023-23:26:32]main > Could not clear discord activity
+[14/09/2023-23:26:32]main > TypeError: Cannot read property 'write' of null
+    at e.exports.send (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/transports/ipc.js:155:17)
+    at /opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:166:22
+    at new Promise (<anonymous>)
+    at e.exports.request (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:164:12)
+    at e.exports.clearActivity (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:550:17)
+    at h.clear (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/services/discord/index.ts:105:24)
+    at App.<anonymous> (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/main.ts:116:19)
+    at App.emit (events.js:327:22)[16/09/2023-7:29:11]main > Could not clear discord activity
+[16/09/2023-7:29:15]main > TypeError: Cannot read property 'write' of null
+    at e.exports.send (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/transports/ipc.js:155:17)
+    at /opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:166:22
+    at new Promise (<anonymous>)
+    at e.exports.request (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:164:12)
+    at e.exports.clearActivity (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:550:17)
+    at h.clear (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/services/discord/index.ts:105:24)
+    at App.<anonymous> (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/main.ts:116:19)
+    at App.emit (events.js:327:22)[18/09/2023-16:0:33]main > Could not clear discord activity
+[18/09/2023-16:0:38]main > TypeError: Cannot read property 'write' of null
+    at e.exports.send (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/transports/ipc.js:155:17)
+    at /opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:166:22
+    at new Promise (<anonymous>)
+    at e.exports.request (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:164:12)
+    at e.exports.clearActivity (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:550:17)
+    at h.clear (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/services/discord/index.ts:105:24)
+    at y.name [as onClearTrackList] (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/controllers/player.ts:66:26)
+    at IpcMainImpl.<anonymous> (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/utils/container.ts:57:39)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:161:9715)
+    at Object.emit (events.js:315:20)[18/09/2023-16:0:38]main > error trying to set discord activity
+[18/09/2023-16:4:44]main > error trying to set discord activity
+[18/09/2023-16:4:44]main > error trying to set discord activity
+[18/09/2023-16:4:44]main > error trying to set discord activity
+[18/09/2023-16:6:59]main > error trying to set discord activity
+[18/09/2023-16:8:57]main > error trying to set discord activity
+[18/09/2023-16:9:59]main > error trying to set discord activity
+[18/09/2023-16:9:59]main > error trying to set discord activity
+[18/09/2023-16:9:59]main > error trying to set discord activity
+[18/09/2023-16:12:44]main > error trying to set discord activity
+[19/09/2023-18:21:32]renderer > youtube fetch playlist error
+[19/09/2023-18:21:32]renderer > Error: Mixes not supported
+[19/09/2023-18:22:40]main > Could not clear discord activity
+[19/09/2023-18:22:44]main > TypeError: Cannot read property 'write' of null
+    at e.exports.send (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/transports/ipc.js:155:17)
+    at /opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:166:22
+    at new Promise (<anonymous>)
+    at e.exports.request (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:164:12)
+    at e.exports.clearActivity (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:550:17)
+    at h.clear (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/services/discord/index.ts:105:24)
+    at App.<anonymous> (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/main.ts:116:19)
+    at App.emit (events.js:327:22)[7/11/2023-21:30:39]main > Could not clear discord activity
+[7/11/2023-21:30:42]main > TypeError: Cannot read property 'write' of null
+    at e.exports.send (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/transports/ipc.js:155:17)
+    at /opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:166:22
+    at new Promise (<anonymous>)
+    at e.exports.request (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:164:12)
+    at e.exports.clearActivity (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:550:17)
+    at h.clear (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/services/discord/index.ts:105:24)
+    at y.name [as onClearTrackList] (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/controllers/player.ts:66:26)
+    at IpcMainImpl.<anonymous> (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/utils/container.ts:57:39)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:161:9715)
+    at Object.emit (events.js:315:20)[7/11/2023-21:30:42]main > error trying to set discord activity
+[7/11/2023-21:30:42]main > error trying to set discord activity
+[7/11/2023-21:30:44]main > Could not clear discord activity
+[7/11/2023-21:30:44]main > TypeError: Cannot read property 'write' of null
+    at e.exports.send (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/transports/ipc.js:155:17)
+    at /opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:166:22
+    at new Promise (<anonymous>)
+    at e.exports.request (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:164:12)
+    at e.exports.clearActivity (/opt/nuclear/resources/app.asar/dist/webpack:/node_modules/discord-rpc/src/client.js:550:17)
+    at h.clear (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/services/discord/index.ts:105:24)
+    at App.<anonymous> (/opt/nuclear/resources/app.asar/dist/webpack:/@nuclear/main/src/main.ts:116:19)
+    at App.emit (events.js:327:22)[12/11/2023-20:43:29]main > Could not clear discord activity

@@ -1,0 +1,18 @@
+set pages-per-row 2
+set recolor true
+set default-bg rgba(0,0,0,0.7)
+set recolor-darkcolor "#7bbd82"
+set recolor-lightcolor rgba(30, 46, 36, 0.0)
+set guioptions s\ v\ c
+set highlight-color "#f691ff"
+set highlight-active-color "#f691ff"
+set completion-bg "#162113"
+set completion-fg "#ffa3ff"
+set completion-highlight-bg "#fcacfc"
+set completion-highlight-fg "#162113"
+set inputbar-fg "#8cffed"
+set inputbar-bg rgba(0,0,0,0.0)
+set notification-bg rgba(196,201,36,0.4)
+set notification-fg "#2a2e1e"
+set statusbar-fg "#162113"
+set statusbar-bg "#8dc98d"

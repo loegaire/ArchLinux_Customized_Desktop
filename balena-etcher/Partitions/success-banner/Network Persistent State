@@ -1,0 +1,1 @@
+{"net":{"http_server_properties":{"servers":[{"isolation":[],"server":"https://a.nel.cloudflare.com","supports_spdy":true},{"isolation":[],"server":"https://efp.balena.io","supports_spdy":true}],"supports_quic":{"address":"2001:ee0:444d:70a0:89f:9838:d4d6:3924","used_quic":true},"version":5},"network_qualities":{"CAASABiAgICA+P////8B":"4G","CAISABiAgICA+P////8B":"4G"}}}

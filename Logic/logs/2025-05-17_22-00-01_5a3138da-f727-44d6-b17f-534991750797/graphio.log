@@ -1,0 +1,25 @@
+[2025-05-17 22:00:04.091] [main] [info] [saleae_log.cpp:327] Logfile path set to: /home/thinh/.config/Logic/logs/2025-05-17_22-00-01_5a3138da-f727-44d6-b17f-534991750797/graphio.log
+[2025-05-17 22:00:04.091] [main] [critical] [saleae_log.cpp:330] Global logging level is set to: info
+[2025-05-17 22:00:10.186] [main] [info] [graph_server.cpp:820] DeleteGraphData SeesionId: -2
+[2025-05-17 22:00:10.186] [main] [info] [graph_server.cpp:844] DeleteGraph( -2 ) called
+[2025-05-17 22:00:18.142] [usb] [info] [DevicesManager.cpp:167] Resetting DevicesManager
+[2025-05-17 22:00:18.242] [device] [info] [GenericDevice.cpp:57] Updating device state (Logic8/0xF4243) from DSInitializing(msg=, progress=0%) to DSReady()
+[2025-05-17 22:00:18.243] [device] [info] [GenericDevice.cpp:57] Updating device state (LogicPro8/0xF4244) from DSInitializing(msg=, progress=0%) to DSReady()
+[2025-05-17 22:00:18.243] [device] [info] [GenericDevice.cpp:57] Updating device state (LogicPro16/0xF4241) from DSInitializing(msg=, progress=0%) to DSReady()
+[2025-05-17 22:00:24.667] [monitor] [info] [graph_server.cpp:338] System Memory Usage: sys_total=7701.566 MB, sys_avail=1540.914 MB, proc_mem_usage=-0.000 MB
+[2025-05-17 22:00:39.668] [monitor] [info] [graph_server.cpp:338] System Memory Usage: sys_total=7701.566 MB, sys_avail=1547.883 MB, proc_mem_usage=-0.000 MB
+[2025-05-17 22:00:48.511] [store] [info] [digital_store.cpp:305] DigitalStore::OnStartDeserialization: Creating deserialization thread
+[2025-05-17 22:00:48.511] [store] [info] [digital_store.cpp:317] Deserializing data from file: /tmp/74af1fb4-9046-4c04-ae09-3a194b3cdef1/digital-0.bin
+[2025-05-17 22:00:48.511] [store] [info] [digital_store.cpp:305] DigitalStore::OnStartDeserialization: Creating deserialization thread
+[2025-05-17 22:00:48.511] [main] [info] [digital_data_collection_serialize.h:16] Loading data, version=1
+[2025-05-17 22:00:48.511] [store] [info] [digital_store.cpp:317] Deserializing data from file: /tmp/74af1fb4-9046-4c04-ae09-3a194b3cdef1/digital-1.bin
+[2025-05-17 22:00:48.511] [main] [info] [digital_data_collection_serialize.h:16] Loading data, version=1
+[2025-05-17 22:00:48.519] [store] [info] [digital_store.cpp:394] Done processing!
+[2025-05-17 22:00:48.519] [store] [info] [digital_store.cpp:394] Done processing!
+[2025-05-17 22:00:49.400] [main] [info] [analyzer_node.cpp:1957] named pipe connected
+[2025-05-17 22:00:49.681] [main] [info] [analyzer_node.cpp:1922] all frames written to database
+[2025-05-17 22:00:53.569] [main] [info] [analyzer_node.cpp:624] joining database thread
+[2025-05-17 22:00:53.569] [main] [info] [analyzer_node.cpp:627] database thread joined
+[2025-05-17 22:00:53.581] [graph] [warning] [graph_server.cpp:496] Direct message handler exception: Pipe with specified id does not exist
+Data:
+{"type":"request","contents":{"id":88,"type":"Saleae::Graph::GraphActionData","runInParallel":false,"actions":[{"type":"Saleae::Graph::GraphActions::RemovePipe","id":1000000351}],"meta":{"sessionId":0,"destination":"GraphServer"}}}

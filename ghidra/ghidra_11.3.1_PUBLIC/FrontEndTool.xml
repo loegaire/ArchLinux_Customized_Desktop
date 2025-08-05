@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FRONTEND VERSION="11.3.1">
+    <TOOL_CONFIG CONFIG_NAME="NO_LONGER_USED">
+        <ICON LOCATION="view_detailed.png" />
+        <TOOL TOOL_NAME="Ghidra: NO ACTIVE PROJECT" INSTANCE_NAME="">
+            <OPTIONS />
+            <PACKAGE NAME="Utility" />
+            <PACKAGE NAME="Ghidra Core" />
+            <ROOT_NODE X_POS="686" Y_POS="35" WIDTH="674" HEIGHT="727" EX_STATE="6" FOCUSED_OWNER="FrontEnd Tool" FOCUSED_NAME="FrontEnd" FOCUSED_TITLE="Project Window">
+                <COMPONENT_NODE TOP_INFO="0">
+                    <COMPONENT_INFO NAME="FrontEnd" OWNER="FrontEnd Tool" TITLE="Project Window" ACTIVE="true" GROUP="Default" INSTANCE_ID="3657181984204660387" />
+                </COMPONENT_NODE>
+            </ROOT_NODE>
+            <PREFERENCES>
+                <PREFERENCE_STATE NAME="ghidra.framework.main.datatable.ProjectDataTableModel:Type:Name:Path:Modified:Processor:Endian:Address Size:Compiler:Size:Format:">
+                    <XML NAME="COLUMN_DATA">
+                        <Table_State>
+                            <COLUMN NAME="ghidra.framework.main.datatable.ProjectDataTableModel$DomainFileTypeColumn.Type" WIDTH="29" VISIBLE="true" />
+                            <COLUMN NAME="ghidra.framework.main.datatable.ProjectDataTableModel$DomainFileNameColumn.Name" WIDTH="130" VISIBLE="true" />
+                            <COLUMN NAME="ghidra.framework.main.datatable.ProjectDataTableModel$DomainFilePathColumn.Path" WIDTH="129" VISIBLE="true" />
+                            <COLUMN NAME="ghidra.framework.main.datatable.ProjectDataTableModel$ModificationDateColumn.Modified" WIDTH="131" VISIBLE="true" />
+                            <COLUMN NAME="ghidra.util.table.projectdata.column.ProcessorProjectDataColumn.Processor" WIDTH="72" VISIBLE="true" />
+                            <COLUMN NAME="ghidra.util.table.projectdata.column.EndianProjectDataColumn.Endian" WIDTH="71" VISIBLE="true" />
+                            <COLUMN NAME="ghidra.util.table.projectdata.column.AddressSizeProjectDataColumn.Address Size" WIDTH="49" VISIBLE="true" />
+                            <COLUMN NAME="ghidra.util.table.projectdata.column.CompilerProjectDataColumn.Compiler" WIDTH="72" VISIBLE="true" />
+                            <COLUMN NAME="ghidra.util.table.projectdata.column.DomainFileSizeProjectDataColumn.Size" WIDTH="84" VISIBLE="true" />
+                            <COLUMN NAME="ghidra.util.table.projectdata.column.FormatProjectDataColumn.Format" WIDTH="83" VISIBLE="true" />
+                            <COLUMN NAME="ghidra.util.table.projectdata.column.CreationDateProjectDataColumn.Created" WIDTH="200" VISIBLE="false" />
+                            <COLUMN NAME="ghidra.util.table.projectdata.column.ExecutablePathProjectDataColumn.Executable Path" WIDTH="60" VISIBLE="false" />
+                            <COLUMN NAME="ghidra.util.table.projectdata.column.LanguageProjectDataColumn.Language ID" WIDTH="60" VISIBLE="false" />
+                            <COLUMN NAME="ghidra.util.table.projectdata.column.CreatedWithProjectDataColumn.Created With" WIDTH="100" VISIBLE="false" />
+                            <COLUMN NAME="ghidra.util.table.projectdata.column.Md5ProjectDataColumn.MD5" WIDTH="120" VISIBLE="false" />
+                            <TABLE_SORT_STATE>
+                                <COLUMN_SORT_STATE COLUMN_MODEL_INDEX="0" SORT_DIRECTION="ascending" SORT_ORDER="1" />
+                            </TABLE_SORT_STATE>
+                        </Table_State>
+                    </XML>
+                </PREFERENCE_STATE>
+            </PREFERENCES>
+        </TOOL>
+    </TOOL_CONFIG>
+</FRONTEND>
+

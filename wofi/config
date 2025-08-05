@@ -1,0 +1,11 @@
+width=42%
+height=90%
+prompt=₍˶•⤙•˶₎ Bạn muốn tìm chương trình gì?
+allow_images=true
+image_size=20
+matching=fuzzy
+hide_scroll=true
+columns=2
+location=left
+content_align=start
+#halign=start

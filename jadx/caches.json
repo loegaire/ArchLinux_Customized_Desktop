@@ -1,0 +1,22 @@
+[
+  {
+    "project": "tmp:baby-android-1-f60515f7ca19ed695f785fb79f16defe",
+    "cache": "/home/thinh/.cache/jadx/projects/baby-android-1-f60515f7ca19ed695f785fb79f16defe",
+    "timestamp": 1747486540647
+  },
+  {
+    "project": "tmp:baby_android-2-03412a822d1ed5e899c999dd99165e71",
+    "cache": "/home/thinh/.cache/jadx/projects/baby_android-2-03412a822d1ed5e899c999dd99165e71",
+    "timestamp": 1747460663199
+  },
+  {
+    "project": "tmp:app-228b766d2229fab07208304770b4b10a",
+    "cache": "/home/thinh/.cache/jadx/projects/app-228b766d2229fab07208304770b4b10a",
+    "timestamp": 1741178751371
+  },
+  {
+    "project": "/home/thinh/app.apk.jadx",
+    "cache": "/home/thinh/.cache/jadx/projects/app-228b766d2229fab07208304770b4b10a",
+    "timestamp": 1740854615009
+  }
+]

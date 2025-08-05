@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Mesen
+Comment=Emulator
+Keywords=game;emulator;emu
+Categories=GNOME;GTK;Game;Emulator;
+Exec=/home/thinh/game/Mesen %f
+NoDisplay=false
+StartupNotify=true
+Icon=MesenIcon

@@ -1,0 +1,380 @@
+﻿{
+  "WorkspaceByCpu": {
+    "Gameboy": {
+      "WatchEntries": [],
+      "Labels": [
+        {
+          "Address": 65344,
+          "MemoryType": "GameboyMemory",
+          "Label": "LCDC_FF40",
+          "Comment": "LCD Control",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65345,
+          "MemoryType": "GameboyMemory",
+          "Label": "STAT_FF41",
+          "Comment": "LCD Status",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65346,
+          "MemoryType": "GameboyMemory",
+          "Label": "SCY_FF42",
+          "Comment": "Scroll Y",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65347,
+          "MemoryType": "GameboyMemory",
+          "Label": "SCX_FF43",
+          "Comment": "Scroll X",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65348,
+          "MemoryType": "GameboyMemory",
+          "Label": "LY_FF44",
+          "Comment": "LCD Y-Coordinate",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65349,
+          "MemoryType": "GameboyMemory",
+          "Label": "LYC_FF45",
+          "Comment": "LY Compare",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65351,
+          "MemoryType": "GameboyMemory",
+          "Label": "BGP_FF47",
+          "Comment": "BG Palette Data",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65352,
+          "MemoryType": "GameboyMemory",
+          "Label": "OBP0_FF48",
+          "Comment": "Object Palette 0 Data",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65353,
+          "MemoryType": "GameboyMemory",
+          "Label": "OBP1_FF49",
+          "Comment": "Object Palette 1 Data",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65354,
+          "MemoryType": "GameboyMemory",
+          "Label": "WY_FF4A",
+          "Comment": "Window Y Position",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65355,
+          "MemoryType": "GameboyMemory",
+          "Label": "WX_FF4B",
+          "Comment": "Window X Position",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65296,
+          "MemoryType": "GameboyMemory",
+          "Label": "NR10_FF10",
+          "Comment": "Channel 1 Sweep",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65297,
+          "MemoryType": "GameboyMemory",
+          "Label": "NR11_FF11",
+          "Comment": "Channel 1 Length/Wave Pattern Duty",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65298,
+          "MemoryType": "GameboyMemory",
+          "Label": "NR12_FF12",
+          "Comment": "Channel 1 Volume Envelope",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65299,
+          "MemoryType": "GameboyMemory",
+          "Label": "NR13_FF13",
+          "Comment": "Channel 1 Frequency Low",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65300,
+          "MemoryType": "GameboyMemory",
+          "Label": "NR14_FF14",
+          "Comment": "Channel 1 Frequency High",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65302,
+          "MemoryType": "GameboyMemory",
+          "Label": "NR21_FF16",
+          "Comment": "Channel 2 Length/Wave Pattern Duty",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65303,
+          "MemoryType": "GameboyMemory",
+          "Label": "NR22_FF17",
+          "Comment": "Channel 2 Volume Envelope",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65304,
+          "MemoryType": "GameboyMemory",
+          "Label": "NR23_FF18",
+          "Comment": "Channel 2 Frequency Low",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65305,
+          "MemoryType": "GameboyMemory",
+          "Label": "NR24_FF19",
+          "Comment": "Channel 2 Frequency High",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65306,
+          "MemoryType": "GameboyMemory",
+          "Label": "NR30_FF1A",
+          "Comment": "Channel 3 On/Off ",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65307,
+          "MemoryType": "GameboyMemory",
+          "Label": "NR31_FF1B",
+          "Comment": "Channel 3 Length",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65308,
+          "MemoryType": "GameboyMemory",
+          "Label": "NR32_FF1C",
+          "Comment": "Channel 3 Output Level",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65309,
+          "MemoryType": "GameboyMemory",
+          "Label": "NR33_FF1D",
+          "Comment": "Channel 3 Frequency Low",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65310,
+          "MemoryType": "GameboyMemory",
+          "Label": "NR34_FF1E",
+          "Comment": "Channel 3 Frequency High",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65312,
+          "MemoryType": "GameboyMemory",
+          "Label": "NR41_FF20",
+          "Comment": "Channel 4 Length",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65313,
+          "MemoryType": "GameboyMemory",
+          "Label": "NR42_FF21",
+          "Comment": "Channel 4 Volume Envelope",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65314,
+          "MemoryType": "GameboyMemory",
+          "Label": "NR43_FF22",
+          "Comment": "Channel 4 Polynomial Counter",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65315,
+          "MemoryType": "GameboyMemory",
+          "Label": "NR44_FF23",
+          "Comment": "Channel 4 Loop",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65316,
+          "MemoryType": "GameboyMemory",
+          "Label": "NR50_FF24",
+          "Comment": "Channel Volume",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65317,
+          "MemoryType": "GameboyMemory",
+          "Label": "NR51_FF25",
+          "Comment": "Channel Left/Right",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65318,
+          "MemoryType": "GameboyMemory",
+          "Label": "NR52_FF26",
+          "Comment": "Channel On/Off",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65280,
+          "MemoryType": "GameboyMemory",
+          "Label": "JOYP_FF00",
+          "Comment": "Joypad",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65281,
+          "MemoryType": "GameboyMemory",
+          "Label": "SB_FF01",
+          "Comment": "Serial Data",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65282,
+          "MemoryType": "GameboyMemory",
+          "Label": "SC_FF02",
+          "Comment": "Serial Control",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65284,
+          "MemoryType": "GameboyMemory",
+          "Label": "DIV_FF04",
+          "Comment": "Divider",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65285,
+          "MemoryType": "GameboyMemory",
+          "Label": "TIMA_FF05",
+          "Comment": "Timer Counter",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65286,
+          "MemoryType": "GameboyMemory",
+          "Label": "TMA_FF06",
+          "Comment": "Timer Modulo",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65287,
+          "MemoryType": "GameboyMemory",
+          "Label": "TAC_FF07",
+          "Comment": "Timer Control",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65295,
+          "MemoryType": "GameboyMemory",
+          "Label": "IF_FF0F",
+          "Comment": "Interrupt Flag",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65535,
+          "MemoryType": "GameboyMemory",
+          "Label": "IE_FFFF",
+          "Comment": "Interrupt Enable",
+          "Flags": "None",
+          "Length": 1
+        },
+        {
+          "Address": 65350,
+          "MemoryType": "GameboyMemory",
+          "Label": "DMA_FF46",
+          "Comment": "OAM DMA Start",
+          "Flags": "None",
+          "Length": 1
+        }
+      ],
+      "Breakpoints": [
+        {
+          "BreakOnRead": true,
+          "BreakOnWrite": true,
+          "BreakOnExec": false,
+          "Forbid": false,
+          "Enabled": true,
+          "MarkEvent": true,
+          "IgnoreDummyOperations": true,
+          "MemoryType": "GbPrgRom",
+          "StartAddress": 6987,
+          "EndAddress": 6987,
+          "CpuType": "Gameboy",
+          "AnyAddress": false,
+          "IsAssert": false,
+          "Condition": ""
+        },
+        {
+          "BreakOnRead": false,
+          "BreakOnWrite": false,
+          "BreakOnExec": true,
+          "Forbid": false,
+          "Enabled": true,
+          "MarkEvent": false,
+          "IgnoreDummyOperations": true,
+          "MemoryType": "GbPrgRom",
+          "StartAddress": 0,
+          "EndAddress": 0,
+          "CpuType": "Gameboy",
+          "AnyAddress": false,
+          "IsAssert": false,
+          "Condition": ""
+        }
+      ]
+    }
+  },
+  "TblMappings": []
+}

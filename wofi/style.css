@@ -1,0 +1,43 @@
+#window {
+border: 5px solid #fa9cfc;
+border-radius:8px;
+margin: 5px;
+padding: 15px;
+background-color:rgba(20,41,22,0.8);
+}
+#outer-box {
+margin: 5px;
+border:none;
+}
+#inner-box {
+border:none;
+display:block;
+}
+#input{
+background-color:#0c4006;
+border:1px solid #fa9cfc;
+border-radius: 0px;
+color:#fa9cfc;
+}
+#entry{
+max-width:20px;
+border:1px solid #99fa8b;
+}
+#entry:selected{
+background-color: #fa9cfc;
+}
+#text:selected{
+color: #142916;
+}
+#text{
+color: #fa9cfc;
+}
+scroll:{
+color:#55ff73;
+}
+#img{
+margin-right:5px;
+padding-right:3px;
+border-right:2px solid #fa9cfc;
+}}
+

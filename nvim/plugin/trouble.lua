@@ -1,0 +1,7 @@
+vim.keymap.set("n", "tbo", function() require("trouble").open() end)
+vim.keymap.set("n", "tbw", function() require("trouble").open("workspace_diagnostics") end)
+vim.keymap.set("n", "tbd", function() require("trouble").open("document_diagnostics") end)
+vim.keymap.set("n", "tbq", function() require("trouble").open("quickfix") end)
+vim.keymap.set("n", "tbl", function() require("trouble").open("loclist") end)
+vim.keymap.set("n", "tbr", function() require("trouble").open("lsp_references") end)
+vim.keymap.set("n", "tbt", vim.cmd.TroubleToggle)

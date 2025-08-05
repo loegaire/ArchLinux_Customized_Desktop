@@ -1,0 +1,8 @@
+net_retropad_hide_analog_mismatch = "True"
+net_retropad_ip_octet1 = "0"
+net_retropad_ip_octet2 = "0"
+net_retropad_ip_octet3 = "0"
+net_retropad_ip_octet4 = "0"
+net_retropad_pointer_test = "Off"
+net_retropad_port = "55400"
+net_retropad_screen = "Retropad"

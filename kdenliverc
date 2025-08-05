@@ -1,0 +1,20 @@
+[MainWindow]
+ToolBarsMovable=Disabled
+
+[Recent Dirs]
+KdenliveClipFolder[$e]=$HOME/,$HOME/Videos,$HOME/Documents
+KdenliveProjectsFolder[$e]=$HOME/Videos,$HOME/Documents
+
+[Recent Files]
+File1[$e]=$HOME/Videos/sinhtonhardcore2.kdenlive
+Name1[$e]=sinhtonhardcore2.kdenlive
+
+[UiSettings]
+ColorSchemePath=BreezeDark.colors
+
+[unmanaged]
+force_breeze=true
+use_dark_breeze=true
+
+[version]
+version=24.02.2

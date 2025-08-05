@@ -1,0 +1,58 @@
+{
+	"appIdentification": {
+		"machineId": "c33d6280-09c8-4252-b71a-66f9ddac12be"
+	},
+	"version": "2.4.29",
+	"analyzersPreferences": {
+		"I2C": {
+			"settings": [
+				{
+					"title": "SDA",
+					"tooltip": "Serial Data Line",
+					"disabled": false,
+					"setting": {
+						"type": "Channel",
+						"channelRequired": true,
+						"value": 1
+					}
+				},
+				{
+					"title": "SCL",
+					"tooltip": "Serial Clock Line",
+					"disabled": false,
+					"setting": {
+						"type": "Channel",
+						"channelRequired": true,
+						"value": 0
+					}
+				}
+			]
+		}
+	},
+	"deviceNames": {},
+	"renderSchemaVersion": 16,
+	"installedExtensions": {
+		"version": 2,
+		"extensions": []
+	},
+	"dismissedMessageId": -1,
+	"installDate": {
+		"timestampMs": 1747494002954,
+		"type": "installDate"
+	},
+	"knownDeviceTypes": [],
+	"automaticallyStartCaptureMSO": true,
+	"marqueeZoomType": "marqueeZoomMultiDimension",
+	"autoLayout": true,
+	"shouldRenameTabToSavedCapture": false,
+	"enableMsoDebugDisplay": false,
+	"relativeZoomMode": "Mouse",
+	"reportAnalytics": true,
+	"reportCrashes": true,
+	"theme": "dark",
+	"dialogLocation": "/home/thinh/ctf/byuctf",
+	"onboardings": {
+		"main": true
+	},
+	"defaultExportFilePath": "/home/thinh/ctf/byuctf/misc_alpha"
+}

@@ -1,0 +1,10 @@
+pl-create all
+pl new
+add
+q
+win-remove
+delete
+save
+a ~/Music
+a ~/music
+a ~/Downloads

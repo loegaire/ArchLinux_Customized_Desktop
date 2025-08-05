@@ -1,0 +1,25 @@
+linux - Linux 6.6.1-arch1-1 x64
+
+[Info] Server is running @ localhost:1730
+[Info] Connection received!
+[Info] Connection received!
+[Info] Connection language set to: en
+[Info] Checking for updates
+[Info] Running the latest version!
+[Info] Not logged in
+[Info] Checking for updates
+[Info] Running the latest version!
+[Info] Checking for country
+[Info] Checking for country
+[Info] Added to Queue 2369088215
+[Info] Registered track: 2369088215:3 | Yorushika - The Old Man and the Sea
+[Info] [Yorushika - The Old Man and the Sea] Getting album info
+[Info] [Yorushika - The Old Man and the Sea] Getting total disc number
+[Info] [Yorushika - The Old Man and the Sea] Getting BPM
+[Info] [Yorushika - The Old Man and the Sea] Downloading file to /home/thinh/Deezloader Music/Yorushika - The Old Man and the Sea.mp3
+[Info] [Yorushika - The Old Man and the Sea] Cover downloaded!
+[Info] [Yorushika - The Old Man and the Sea] Starting the download process
+[Error] [Yorushika - The Old Man and the Sea] Error: Error: Authentication needed to get download URL
+[Info] Loading Personal Playlists
+[Info] Loaded 0 Playlist
+[Info] Settings updated

@@ -1,0 +1,62 @@
+2025-04-06 01:59:16 INFO  (LoggingInitialization) Using log config file: jar:file:/home/thinh/utils/ghidra_11.3.1_PUBLIC/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml  
+2025-04-06 01:59:16 INFO  (LoggingInitialization) Using log file: /home/thinh/.config/ghidra/ghidra_11.3.1_PUBLIC/application.log  
+2025-04-06 01:59:17 INFO  (Preferences) Loading user preferences: /home/thinh/.config/ghidra/ghidra_11.3.1_PUBLIC/preferences  
+2025-04-06 01:59:22 INFO  (ClassSearcher) Searching for classes...  
+2025-04-06 01:59:23 INFO  (ClassSearcher) Class search complete (1447 ms)  
+2025-04-06 01:59:23 INFO  (SSLContextInitializer) Initializing SSL Context  
+2025-04-06 01:59:23 INFO  (SecureRandomFactory) Initializing Random Number Generator...  
+2025-04-06 01:59:23 INFO  (SecureRandomFactory) Random Number Generator initialization complete: NativePRNGNonBlocking  
+2025-04-06 01:59:23 INFO  (ApplicationTrustManagerFactory) Trust manager disabled, cacerts have not been set  
+2025-04-06 01:59:24 INFO  (GhidraRun) User thinh started Ghidra.  
+2025-04-06 01:59:24 INFO  (GhidraRun) User settings directory: /home/thinh/.config/ghidra/ghidra_11.3.1_PUBLIC  
+2025-04-06 01:59:24 INFO  (GhidraRun) User temp directory: /tmp/thinh-ghidra  
+2025-04-06 01:59:24 INFO  (GhidraRun) User cache directory: /var/tmp/thinh-ghidra  
+2025-04-06 01:59:24 DEBUG (DefaultProjectManager) No tools found; Installing default tools  
+2025-04-06 01:59:24 DEBUG (DefaultProjectManager) 	no recent project directories found  
+2025-04-06 01:59:25 DEBUG (RecoverySnapshotMgrPlugin) Recovery snapshot timer set to 5 minute(s)  
+2025-04-06 01:59:26 INFO  (GhidraRun) Ghidra startup complete (11577 ms)  
+2025-04-06 02:00:00 INFO  (LoggingInitialization) Using log config file: jar:file:/home/thinh/utils/ghidra_11.3.1_PUBLIC/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml  
+2025-04-06 02:00:00 INFO  (LoggingInitialization) Using log file: /home/thinh/.config/ghidra/ghidra_11.3.1_PUBLIC/application.log  
+2025-04-06 02:00:00 INFO  (Preferences) Loading user preferences: /home/thinh/.config/ghidra/ghidra_11.3.1_PUBLIC/preferences  
+2025-04-06 02:00:01 INFO  (ClassSearcher) Searching for classes...  
+2025-04-06 02:00:02 INFO  (ClassSearcher) Class search complete (1413 ms)  
+2025-04-06 02:00:02 INFO  (SSLContextInitializer) Initializing SSL Context  
+2025-04-06 02:00:02 INFO  (SecureRandomFactory) Initializing Random Number Generator...  
+2025-04-06 02:00:02 INFO  (SecureRandomFactory) Random Number Generator initialization complete: NativePRNGNonBlocking  
+2025-04-06 02:00:02 INFO  (ApplicationTrustManagerFactory) Trust manager disabled, cacerts have not been set  
+2025-04-06 02:00:02 INFO  (GhidraRun) User thinh started Ghidra.  
+2025-04-06 02:00:02 INFO  (GhidraRun) User settings directory: /home/thinh/.config/ghidra/ghidra_11.3.1_PUBLIC  
+2025-04-06 02:00:02 INFO  (GhidraRun) User temp directory: /tmp/thinh-ghidra  
+2025-04-06 02:00:02 INFO  (GhidraRun) User cache directory: /var/tmp/thinh-ghidra  
+2025-04-06 02:00:04 DEBUG (RecoverySnapshotMgrPlugin) Recovery snapshot timer set to 5 minute(s)  
+2025-04-06 02:00:04 INFO  (GhidraRun) Ghidra startup complete (4095 ms)  
+2025-04-06 02:05:46 INFO  (LoggingInitialization) Using log config file: jar:file:/home/thinh/utils/ghidra_11.3.1_PUBLIC/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml  
+2025-04-06 02:05:46 INFO  (LoggingInitialization) Using log file: /home/thinh/.config/ghidra/ghidra_11.3.1_PUBLIC/application.log  
+2025-04-06 02:05:46 INFO  (Preferences) Loading user preferences: /home/thinh/.config/ghidra/ghidra_11.3.1_PUBLIC/preferences  
+2025-04-06 02:05:47 INFO  (ClassSearcher) Searching for classes...  
+2025-04-06 02:05:48 INFO  (ClassSearcher) Class search complete (1406 ms)  
+2025-04-06 02:05:48 INFO  (SSLContextInitializer) Initializing SSL Context  
+2025-04-06 02:05:48 INFO  (SecureRandomFactory) Initializing Random Number Generator...  
+2025-04-06 02:05:48 INFO  (SecureRandomFactory) Random Number Generator initialization complete: NativePRNGNonBlocking  
+2025-04-06 02:05:48 INFO  (ApplicationTrustManagerFactory) Trust manager disabled, cacerts have not been set  
+2025-04-06 02:05:48 INFO  (GhidraRun) User thinh started Ghidra.  
+2025-04-06 02:05:48 INFO  (GhidraRun) User settings directory: /home/thinh/.config/ghidra/ghidra_11.3.1_PUBLIC  
+2025-04-06 02:05:48 INFO  (GhidraRun) User temp directory: /tmp/thinh-ghidra  
+2025-04-06 02:05:48 INFO  (GhidraRun) User cache directory: /var/tmp/thinh-ghidra  
+2025-04-06 02:05:50 DEBUG (RecoverySnapshotMgrPlugin) Recovery snapshot timer set to 5 minute(s)  
+2025-04-06 02:05:50 INFO  (GhidraRun) Ghidra startup complete (4222 ms)  
+2025-04-06 02:11:02 INFO  (LoggingInitialization) Using log config file: jar:file:/home/thinh/utils/ghidra_11.3.1_PUBLIC/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml  
+2025-04-06 02:11:02 INFO  (LoggingInitialization) Using log file: /home/thinh/.config/ghidra/ghidra_11.3.1_PUBLIC/application.log  
+2025-04-06 02:11:02 INFO  (Preferences) Loading user preferences: /home/thinh/.config/ghidra/ghidra_11.3.1_PUBLIC/preferences  
+2025-04-06 02:11:02 INFO  (ClassSearcher) Searching for classes...  
+2025-04-06 02:11:03 INFO  (ClassSearcher) Class search complete (1231 ms)  
+2025-04-06 02:11:03 INFO  (SSLContextInitializer) Initializing SSL Context  
+2025-04-06 02:11:04 INFO  (SecureRandomFactory) Initializing Random Number Generator...  
+2025-04-06 02:11:04 INFO  (SecureRandomFactory) Random Number Generator initialization complete: NativePRNGNonBlocking  
+2025-04-06 02:11:04 INFO  (ApplicationTrustManagerFactory) Trust manager disabled, cacerts have not been set  
+2025-04-06 02:11:04 INFO  (GhidraRun) User thinh started Ghidra.  
+2025-04-06 02:11:04 INFO  (GhidraRun) User settings directory: /home/thinh/.config/ghidra/ghidra_11.3.1_PUBLIC  
+2025-04-06 02:11:04 INFO  (GhidraRun) User temp directory: /tmp/thinh-ghidra  
+2025-04-06 02:11:04 INFO  (GhidraRun) User cache directory: /var/tmp/thinh-ghidra  
+2025-04-06 02:11:05 DEBUG (RecoverySnapshotMgrPlugin) Recovery snapshot timer set to 5 minute(s)  
+2025-04-06 02:11:05 INFO  (GhidraRun) Ghidra startup complete (3950 ms)  

@@ -1,0 +1,24 @@
+linux - Linux 6.5.9-arch2-1 x64
+
+[Info] Can't find authCredentials.json, creating one now!
+[Info] Server is running @ localhost:1730
+[Info] Connection received!
+[Info] Settings updated
+[Info] Checking for updates
+[Info] Running the latest version!
+[Info] Connection received!
+[Info] Connection language set to: en
+[Info] Not logged in
+[Info] Checking for updates
+[Info] Running the latest version!
+[Info] Checking for country
+[Info] Checking for country
+[Info] Added to Queue 1388519992
+[Info] Registered track: 1388519992:3 | Yorushika - Matasaburo
+[Info] [Yorushika - Matasaburo] Getting album info
+[Info] [Yorushika - Matasaburo] Getting total disc number
+[Info] [Yorushika - Matasaburo] Getting BPM
+[Info] [Yorushika - Matasaburo] Downloading file to /home/thinh/Deezloader Music/Yorushika - Matasaburo.mp3
+[Info] [Yorushika - Matasaburo] Cover downloaded!
+[Info] [Yorushika - Matasaburo] Starting the download process
+[Error] [Yorushika - Matasaburo] Error: Error: Authentication needed to get download URL

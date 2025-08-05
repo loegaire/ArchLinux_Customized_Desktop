@@ -1,0 +1,34 @@
+[Default Applications]
+x-scheme-handler/discord-1038970224050962582=nuclear.desktop
+x-scheme-handler/postman=Postman.desktop
+x-scheme-handler/mailto=userapp-Thunderbird-ANH122.desktop
+x-scheme-handler/http=firefox.desktop
+x-scheme-handler/https=firefox.desktop
+x-scheme-handler/chrome=firefox.desktop
+text/html=firefox.desktop
+application/x-extension-htm=firefox.desktop
+application/x-extension-html=firefox.desktop
+application/x-extension-shtml=firefox.desktop
+application/xhtml+xml=firefox.desktop
+application/x-extension-xhtml=firefox.desktop
+application/x-extension-xht=firefox.desktop
+x-scheme-handler/discord-1216669957799018608=discord-1216669957799018608.desktop
+application/x-extension-burp=install4j_l0qzw6-BurpSuiteCommunity.desktop
+message/rfc822=userapp-Thunderbird-ANH122.desktop
+x-scheme-handler/mid=userapp-Thunderbird-ANH122.desktop
+x-scheme-handler/discord-647066573147996161=discord-647066573147996161.desktop
+
+[Added Associations]
+application/pdf=org.pwmt.zathura-pdf-poppler.desktop;
+x-scheme-handler/http=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;
+x-scheme-handler/chrome=firefox.desktop;
+text/html=firefox.desktop;
+application/x-extension-htm=firefox.desktop;
+application/x-extension-html=firefox.desktop;
+application/x-extension-shtml=firefox.desktop;
+application/xhtml+xml=firefox.desktop;
+application/x-extension-xhtml=firefox.desktop;
+application/x-extension-xht=firefox.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-ANH122.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-ANH122.desktop;

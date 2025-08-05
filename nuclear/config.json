@@ -1,0 +1,807 @@
+{
+	"lastFm": {},
+	"settings": {
+		"invidious.url": "https://invidious.snopyta.org",
+		"language": "en-US",
+		"userId": "f3340061-0518-4d0f-8395-6ef456291c36",
+		"volume": 11,
+		"visualizer.preset": "flexi + amandio c - organic [random mashup]",
+		"downloads.dir": "/home/thinh/Music",
+		"miniPlayer": false,
+		"autoradioCraziness": 1
+	},
+	"playLists": [],
+	"favorites": {
+		"tracks": [],
+		"artists": [
+			{
+				"id": 7156729,
+				"name": "ヨルシカ",
+				"source": "Discogs",
+				"coverImage": "https://i.discogs.com/ZcPsZ5UCs1OSkSadt3QMx9i4yWnFDQw4OfplAjGwOCo/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTcxNTY3/MjktMTU1Nzg3MTI2/NS02OTA3LmpwZWc.jpeg",
+				"thumb": "https://i.discogs.com/ZcPsZ5UCs1OSkSadt3QMx9i4yWnFDQw4OfplAjGwOCo/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTcxNTY3/MjktMTU1Nzg3MTI2/NS02OTA3LmpwZWc.jpeg"
+			}
+		],
+		"albums": []
+	},
+	"downloads": [
+		{
+			"status": "Finished",
+			"completion": 1,
+			"track": {
+				"artist": "ヨルシカ",
+				"name": "花に亡霊",
+				"thumbnail": "https://i.discogs.com/ZcPsZ5UCs1OSkSadt3QMx9i4yWnFDQw4OfplAjGwOCo/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTcxNTY3/MjktMTU1Nzg3MTI2/NS02OTA3LmpwZWc.jpeg",
+				"streams": [
+					{
+						"id": "9lVPAWLWtWc",
+						"source": "Youtube",
+						"stream": "https://rr7---sn-8qj-i5ols.googlevideo.com/videoplayback?expire=1694522468&ei=BAgAZaqwM6a3g8UPv4umuAo&ip=14.241.57.126&id=o-AIvTEWTQFEmu11C9Id0R78LTzQc3dsmKkjMOuKoP31NC&itag=251&source=youtube&requiressl=yes&mh=kB&mm=31%2C26&mn=sn-8qj-i5ols%2Csn-oguelner&ms=au%2Conr&mv=m&mvi=7&pl=26&initcwndbps=1478750&spc=UWF9f1OFAgdaX64vWQd090CWMgm7S9dcYzhfKUfViA&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=yLyxkQHO8Hl9GPKDGpVuuKYP&gir=yes&clen=4044846&dur=242.261&lmt=1603656187684285&mt=1694500401&fvip=3&keepalive=yes&fexp=24007246%2C24363391&beids=24350018&c=WEB&txp=5431432&n=X_J4CFvtv_F1qg&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgGZz1B0JheRFkoCAeZ_8-bFKpejOaBjK4bPf0QDd3zEQCIQDAGnPOCzKa25gmkI269QMOJQxs71D4q9XKcFGpyivFcw%3D%3D&sig=AOq0QJ8wRQIgB5UUAJmrhM8fUtZF9E3DuAbZJ3nf_mNNCR7J6dAeYKECIQCA7yvplcA2Op3WMQT9Hoo05PueQYNF8E6oLottvuHTYQ%3D%3D",
+						"duration": 243,
+						"title": "ヨルシカ - 花に亡霊（OFFICIAL VIDEO）",
+						"format": "webm",
+						"skipSegments": [
+							{
+								"category": "music_offtopic",
+								"startTime": 239,
+								"endTime": 242
+							}
+						],
+						"originalUrl": "http://www.youtube.com/watch?v=9lVPAWLWtWc",
+						"isLive": false,
+						"author": {
+							"name": "ヨルシカ / n-buna Official",
+							"thumbnail": "https://yt3.ggpht.com/ytc/AOPolaSZ9vxwIpPvWHwgr3D2trdHWrriqfxoWsdz0QVe=s48-c-k-c0x00ffffff-no-rj-mo"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "Sw1Flgub9s8",
+						"duration": 5,
+						"title": "ヨルシカ - 春泥棒（OFFICIAL VIDEO）",
+						"thumbnail": "https://i.ytimg.com/vi/Sw1Flgub9s8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2iivCikIVvjtWmyIiMHetMujmjQ",
+						"originalUrl": "https://www.youtube.com/watch?v=Sw1Flgub9s8&pp=ygUZ44Oo44Or44K344KrIOiKseOBq-S6oemcig%3D%3D",
+						"author": {
+							"name": "ヨルシカ / n-buna Official",
+							"thumbnail": "https://i.ytimg.com/vi/Sw1Flgub9s8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2iivCikIVvjtWmyIiMHetMujmjQ"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "UBg5RHQnxC4",
+						"duration": 4,
+						"title": "ヨルシカ/花に亡霊【歌詞付❕】",
+						"thumbnail": "https://i.ytimg.com/vi/UBg5RHQnxC4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2n_ZnJvw-zuqPH1qF_SrJvMjiBA",
+						"originalUrl": "https://www.youtube.com/watch?v=UBg5RHQnxC4&pp=ygUZ44Oo44Or44K344KrIOiKseOBq-S6oemcig%3D%3D",
+						"author": {
+							"name": "Rur.1",
+							"thumbnail": "https://i.ytimg.com/vi/UBg5RHQnxC4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2n_ZnJvw-zuqPH1qF_SrJvMjiBA"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "L9V0mox5EK4",
+						"duration": 4,
+						"title": "【ライブ風音響】-ヨルシカ- 花に亡霊　",
+						"thumbnail": "https://i.ytimg.com/vi/L9V0mox5EK4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhnpDOfg-Ha1RFX20WO6k9g5cvsQ",
+						"originalUrl": "https://www.youtube.com/watch?v=L9V0mox5EK4&pp=ygUZ44Oo44Or44K344KrIOiKseOBq-S6oemcig%3D%3D",
+						"author": {
+							"name": "Quad-uav！",
+							"thumbnail": "https://i.ytimg.com/vi/L9V0mox5EK4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhnpDOfg-Ha1RFX20WO6k9g5cvsQ"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "umFA2su7YYA",
+						"duration": 4,
+						"title": "花に亡霊（ヨルシカ）／まふまふ【歌ってみた】",
+						"thumbnail": "https://i.ytimg.com/vi/umFA2su7YYA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDC0--nL5d3pVDptfhLMuJC3BaV0g",
+						"originalUrl": "https://www.youtube.com/watch?v=umFA2su7YYA&pp=ygUZ44Oo44Or44K344KrIOiKseOBq-S6oemcig%3D%3D",
+						"author": {
+							"name": "まふまふちゃんねる",
+							"thumbnail": "https://i.ytimg.com/vi/umFA2su7YYA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDC0--nL5d3pVDptfhLMuJC3BaV0g"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "65EMWkVJOKU",
+						"duration": 4,
+						"title": "花に亡霊 - ヨルシカ (Piano Cover)",
+						"thumbnail": "https://i.ytimg.com/vi/65EMWkVJOKU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxXfkmJ4uc3Gy9Mvj1mxWjwF4Rlg",
+						"originalUrl": "https://www.youtube.com/watch?v=65EMWkVJOKU&pp=ygUZ44Oo44Or44K344KrIOiKseOBq-S6oemcig%3D%3D",
+						"author": {
+							"name": "深根 / Fukane",
+							"thumbnail": "https://i.ytimg.com/vi/65EMWkVJOKU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxXfkmJ4uc3Gy9Mvj1mxWjwF4Rlg"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "eGfyyU9qouA",
+						"duration": 4,
+						"title": "【歌ってみた】花に亡霊/ 百鬼あやめ cover",
+						"thumbnail": "https://i.ytimg.com/vi/eGfyyU9qouA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4eFzpCou4yviaeOSbEzPHJISQSQ",
+						"originalUrl": "https://www.youtube.com/watch?v=eGfyyU9qouA&pp=ygUZ44Oo44Or44K344KrIOiKseOBq-S6oemcig%3D%3D",
+						"author": {
+							"name": "Nakiri Ayame Ch. 百鬼あやめ",
+							"thumbnail": "https://i.ytimg.com/vi/eGfyyU9qouA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4eFzpCou4yviaeOSbEzPHJISQSQ"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "O-gQtVz5gmg",
+						"duration": 4,
+						"title": "花に亡霊/ヨルシカ　歌ってみた　【cover：天翼あいる】",
+						"thumbnail": "https://i.ytimg.com/vi/O-gQtVz5gmg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4cfTpddbd49RaAUI3lVQtsv4A7A",
+						"originalUrl": "https://www.youtube.com/watch?v=O-gQtVz5gmg&pp=ygUZ44Oo44Or44K344KrIOiKseOBq-S6oemcig%3D%3D",
+						"author": {
+							"name": "天翼 あいる / amaha ailu",
+							"thumbnail": "https://i.ytimg.com/vi/O-gQtVz5gmg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4cfTpddbd49RaAUI3lVQtsv4A7A"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "FPAjgt3a1XE",
+						"duration": 1,
+						"title": "【花に亡霊1時間耐久】作業用･睡眠用BGM／ヨルシカ",
+						"thumbnail": "https://i.ytimg.com/vi/FPAjgt3a1XE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSQGqNaV_AqQ_Z1hanAEpdQe49Hw",
+						"originalUrl": "https://www.youtube.com/watch?v=FPAjgt3a1XE&pp=ygUZ44Oo44Or44K344KrIOiKseOBq-S6oemcig%3D%3D",
+						"author": {
+							"name": "ひろき",
+							"thumbnail": "https://i.ytimg.com/vi/FPAjgt3a1XE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSQGqNaV_AqQ_Z1hanAEpdQe49Hw"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "P8KJFY6fD6A",
+						"duration": 1,
+						"title": "【100分耐久】花に亡霊【泣きたい私は猫をかぶる】【ヨルシカ】",
+						"thumbnail": "https://i.ytimg.com/vi/P8KJFY6fD6A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzXg1vHAfUyUPJx8vO7K2YxePULg",
+						"originalUrl": "https://www.youtube.com/watch?v=P8KJFY6fD6A&pp=ygUZ44Oo44Or44K344KrIOiKseOBq-S6oemcig%3D%3D",
+						"author": {
+							"name": "佐々木蒼介",
+							"thumbnail": "https://i.ytimg.com/vi/P8KJFY6fD6A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzXg1vHAfUyUPJx8vO7K2YxePULg"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "4VP9UDt_teQ",
+						"duration": 4,
+						"title": "【17歳】花に亡霊 / ゆう。- cover【オリジナルMV】",
+						"thumbnail": "https://i.ytimg.com/vi/4VP9UDt_teQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwj2_NscwGFoz4cCcMzCUAwGQR9g",
+						"originalUrl": "https://www.youtube.com/watch?v=4VP9UDt_teQ&pp=ygUZ44Oo44Or44K344KrIOiKseOBq-S6oemcig%3D%3D",
+						"author": {
+							"name": "ゆう。",
+							"thumbnail": "https://i.ytimg.com/vi/4VP9UDt_teQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwj2_NscwGFoz4cCcMzCUAwGQR9g"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "OJpN34EBUrg",
+						"duration": 4,
+						"title": "ヨルシカ - 花に亡霊【 | Romaji | 中文 | Japanese | English |】Lyric",
+						"thumbnail": "https://i.ytimg.com/vi/OJpN34EBUrg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaorRGIE5PR24AoiPuR7-TqPqYmg",
+						"originalUrl": "https://www.youtube.com/watch?v=OJpN34EBUrg&pp=ygUZ44Oo44Or44K344KrIOiKseOBq-S6oemcig%3D%3D",
+						"author": {
+							"name": "X Music List",
+							"thumbnail": "https://i.ytimg.com/vi/OJpN34EBUrg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaorRGIE5PR24AoiPuR7-TqPqYmg"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "GE911BIuCbs",
+						"duration": 4,
+						"title": "花に亡霊 / ヨルシカ covered by 長瀬麻奈(CV:神田沙也加)【IDOLY PRIDE】",
+						"thumbnail": "https://i.ytimg.com/vi/GE911BIuCbs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA72Tqx3ddoDIFLmpKhNTbe51TnFQ",
+						"originalUrl": "https://www.youtube.com/watch?v=GE911BIuCbs&pp=ygUZ44Oo44Or44K344KrIOiKseOBq-S6oemcig%3D%3D",
+						"author": {
+							"name": "IDOLY PRIDE アイドリープライド（アイプラ）",
+							"thumbnail": "https://i.ytimg.com/vi/GE911BIuCbs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA72Tqx3ddoDIFLmpKhNTbe51TnFQ"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "hgq2FsFhwJ0",
+						"duration": 4,
+						"title": "花に亡霊 / ヨルシカ【歌詞付】映画「泣きたい私は猫をかぶる」主題歌｜Cover｜FULL｜MV｜PV｜泣き猫",
+						"thumbnail": "https://i.ytimg.com/vi/hgq2FsFhwJ0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8dREEV2E1LEtImOOxFrImAWNJwg",
+						"originalUrl": "https://www.youtube.com/watch?v=hgq2FsFhwJ0&pp=ygUZ44Oo44Or44K344KrIOiKseOBq-S6oemcig%3D%3D",
+						"author": {
+							"name": "名古屋ギター女子部",
+							"thumbnail": "https://i.ytimg.com/vi/hgq2FsFhwJ0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8dREEV2E1LEtImOOxFrImAWNJwg"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "5e9HQZ_5T4U",
+						"duration": 4,
+						"title": "花に亡霊 - ヨルシカ【楽譜あり】耳コピピアノカバー - Piano Cover - 弾いてみた - CANACANA",
+						"thumbnail": "https://i.ytimg.com/vi/5e9HQZ_5T4U/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOJbRo6QsoZ6P3_MboXP_mca2sBA",
+						"originalUrl": "https://www.youtube.com/watch?v=5e9HQZ_5T4U&pp=ygUZ44Oo44Or44K344KrIOiKseOBq-S6oemcig%3D%3D",
+						"author": {
+							"name": "CANACANA family",
+							"thumbnail": "https://i.ytimg.com/vi/5e9HQZ_5T4U/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOJbRo6QsoZ6P3_MboXP_mca2sBA"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "t985V7h_fPA",
+						"duration": 4,
+						"title": "【TAB譜付き】花に亡霊（Ghost In A Flower） - ヨルシカ（Yorushika）（Guitar Cover）",
+						"thumbnail": "https://i.ytimg.com/vi/t985V7h_fPA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPCp5-IM86K-PqhHdM6yL3kKop8Q",
+						"originalUrl": "https://www.youtube.com/watch?v=t985V7h_fPA&pp=ygUZ44Oo44Or44K344KrIOiKseOBq-S6oemcig%3D%3D",
+						"author": {
+							"name": "【しょうへい】AnyMusic",
+							"thumbnail": "https://i.ytimg.com/vi/t985V7h_fPA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPCp5-IM86K-PqhHdM6yL3kKop8Q"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "guLac0SFOo4",
+						"duration": 4,
+						"title": "【ヨルシカ】花に亡霊-叩いてみた【ドラム楽譜付き】(Ghost In A Flower/Yorushika)【DrumCover】",
+						"thumbnail": "https://i.ytimg.com/vi/guLac0SFOo4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZkXeDcynu4DeIisulDc3pOhXtMg",
+						"originalUrl": "https://www.youtube.com/watch?v=guLac0SFOo4&pp=ygUZ44Oo44Or44K344KrIOiKseOBq-S6oemcig%3D%3D",
+						"author": {
+							"name": "だいち-Daichi Drums",
+							"thumbnail": "https://i.ytimg.com/vi/guLac0SFOo4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZkXeDcynu4DeIisulDc3pOhXtMg"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "c0V8aeSUJ7I",
+						"duration": 4,
+						"title": "【みゆはん×ヨルシカ『花に亡霊』フル尺カバー！】映画「泣きたい私は猫をかぶる」主題歌を優しく歌い上げる！【アニソン神曲カバーでしょdeショー‼︎】",
+						"thumbnail": "https://i.ytimg.com/vi/c0V8aeSUJ7I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMnohMbiLiaVk1E4Jrr6q5_ab5oA",
+						"originalUrl": "https://www.youtube.com/watch?v=c0V8aeSUJ7I&pp=ygUZ44Oo44Or44K344KrIOiKseOBq-S6oemcig%3D%3D",
+						"author": {
+							"name": "動画、はじめてみました【テレビ朝日公式】",
+							"thumbnail": "https://i.ytimg.com/vi/c0V8aeSUJ7I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMnohMbiLiaVk1E4Jrr6q5_ab5oA"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "BGbq3jzxGCQ",
+						"duration": 4,
+						"title": "【ヨルシカ】花に亡霊(Remake ver.)-叩いてみた【ドラム楽譜付き】(Ghost In A Flower/Yorushika)【DrumCover】",
+						"thumbnail": "https://i.ytimg.com/vi/BGbq3jzxGCQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXuZJGSYuza0q1V4STH9iEsjryYg",
+						"originalUrl": "https://www.youtube.com/watch?v=BGbq3jzxGCQ&pp=ygUZ44Oo44Or44K344KrIOiKseOBq-S6oemcig%3D%3D",
+						"author": {
+							"name": "だいち-Daichi Drums",
+							"thumbnail": "https://i.ytimg.com/vi/BGbq3jzxGCQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXuZJGSYuza0q1V4STH9iEsjryYg"
+						}
+					}
+				],
+				"uuid": "95e95089-a7e9-48c3-a5b2-f23c84b9685b"
+			}
+		},
+		{
+			"status": "Finished",
+			"completion": 1,
+			"track": {
+				"artist": "ヨルシカ",
+				"name": "ただ君に晴れ",
+				"thumbnail": "https://i.discogs.com/ZcPsZ5UCs1OSkSadt3QMx9i4yWnFDQw4OfplAjGwOCo/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTcxNTY3/MjktMTU1Nzg3MTI2/NS02OTA3LmpwZWc.jpeg",
+				"streams": [
+					{
+						"id": "-VKIqrvVOpo",
+						"source": "Youtube",
+						"stream": "https://rr7---sn-8qj-i5ols.googlevideo.com/videoplayback?expire=1694522464&ei=AAgAZf3rC8Td4-EPotum-Aw&ip=14.241.57.126&id=o-AIyCOwD411-F7LlvPvIMTyDdFS2V31nWZ5GNYSqayQGs&itag=251&source=youtube&requiressl=yes&mh=fu&mm=31%2C26&mn=sn-8qj-i5ols%2Csn-oguelnsk&ms=au%2Conr&mv=m&mvi=7&pl=26&initcwndbps=1478750&spc=UWF9f8BwAaID7IReOY6TV3UFAo0w4ujIyGG5ZK9RuA&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=dxdJYLleAE6OwsYxA_DHeFAP&gir=yes&clen=3245124&dur=199.841&lmt=1684200098279020&mt=1694500401&fvip=5&keepalive=yes&fexp=24007246&beids=24350017&c=WEB&txp=5532434&n=7qePxUPig4joFg&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgVTlgfmdKSwzA8wFBK603LQ1ksj71ZZyJuoWXfKv_W5cCIQDOKkGfKX50lEUet3ky2a7DH6wiyG0MTA6N7_2jcr5l2w%3D%3D&sig=AOq0QJ8wRQIhAKRD_7wM6jrXkksZBVcsEiT_sBUQ2dzl_GbMv8KNRZe_AiBjbi_dUAo9CYYCvFYPHVWVgsuAXEwCjI0oib7KGvfF9Q%3D%3D",
+						"duration": 200,
+						"title": "ヨルシカ - ただ君に晴れ (MUSIC VIDEO)",
+						"format": "webm",
+						"skipSegments": [
+							{
+								"category": "music_offtopic",
+								"startTime": 0,
+								"endTime": 1
+							},
+							{
+								"category": "music_offtopic",
+								"startTime": 197,
+								"endTime": 200
+							}
+						],
+						"originalUrl": "http://www.youtube.com/watch?v=-VKIqrvVOpo",
+						"isLive": false,
+						"author": {
+							"name": "ヨルシカ / n-buna Official",
+							"thumbnail": "https://yt3.ggpht.com/ytc/AOPolaSZ9vxwIpPvWHwgr3D2trdHWrriqfxoWsdz0QVe=s48-c-k-c0x00ffffff-no-rj-mo"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "9dQDhGAp7MY",
+						"duration": 3,
+						"title": "ただ君に晴れ / ヨルシカ - ギター弾いてみた【TAB譜付き】 / Yorushika - Tada Kimi Ni Hare",
+						"thumbnail": "https://i.ytimg.com/vi/9dQDhGAp7MY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBej-W-snjUc5o9Dgc0iN7ekDfmtw",
+						"originalUrl": "https://www.youtube.com/watch?v=9dQDhGAp7MY&pp=ygUf44Oo44Or44K344KrIOOBn-OBoOWQm-OBq-aZtOOCjA%3D%3D",
+						"author": {
+							"name": "ヨルシカのギター全曲弾いてみたいチャンネル",
+							"thumbnail": "https://i.ytimg.com/vi/9dQDhGAp7MY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBej-W-snjUc5o9Dgc0iN7ekDfmtw"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "9lVPAWLWtWc",
+						"duration": 4,
+						"title": "ヨルシカ - 花に亡霊（OFFICIAL VIDEO）",
+						"thumbnail": "https://i.ytimg.com/vi/9lVPAWLWtWc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDI4qxWo7vS2B3wgmtUCzky5N5VBQ",
+						"originalUrl": "https://www.youtube.com/watch?v=9lVPAWLWtWc&pp=ygUf44Oo44Or44K344KrIOOBn-OBoOWQm-OBq-aZtOOCjA%3D%3D",
+						"author": {
+							"name": "ヨルシカ / n-buna Official",
+							"thumbnail": "https://i.ytimg.com/vi/9lVPAWLWtWc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDI4qxWo7vS2B3wgmtUCzky5N5VBQ"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "xtTxL7zv5fo",
+						"duration": 1,
+						"title": "그저 네게 맑아라 ただ君に晴れ 1시간",
+						"thumbnail": "https://i.ytimg.com/vi/xtTxL7zv5fo/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ4mudeHr9AGtpkwVelRQgizsxUA",
+						"originalUrl": "https://www.youtube.com/watch?v=xtTxL7zv5fo&pp=ygUf44Oo44Or44K344KrIOOBn-OBoOWQm-OBq-aZtOOCjA%3D%3D",
+						"author": {
+							"name": "성이름",
+							"thumbnail": "https://i.ytimg.com/vi/xtTxL7zv5fo/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ4mudeHr9AGtpkwVelRQgizsxUA"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "VJuiO-CoXsI",
+						"duration": 3,
+						"title": "【カラオケ】ただ君に晴れ/ヨルシカ",
+						"thumbnail": "https://i.ytimg.com/vi/VJuiO-CoXsI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC89xPdrY5u5j9WjGoWPKhDVlx2fA",
+						"originalUrl": "https://www.youtube.com/watch?v=VJuiO-CoXsI&pp=ygUf44Oo44Or44K344KrIOOBn-OBoOWQm-OBq-aZtOOCjA%3D%3D",
+						"author": {
+							"name": "カラオケ歌っちゃ王",
+							"thumbnail": "https://i.ytimg.com/vi/VJuiO-CoXsI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC89xPdrY5u5j9WjGoWPKhDVlx2fA"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "6eqEB2PgWig",
+						"duration": 16,
+						"title": "ただ君に晴れ　約15分耐久",
+						"thumbnail": "https://i.ytimg.com/vi/6eqEB2PgWig/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDscZ_vAB0rLfHMNQXphAmKTOcD8g",
+						"originalUrl": "https://www.youtube.com/watch?v=6eqEB2PgWig&pp=ygUf44Oo44Or44K344KrIOOBn-OBoOWQm-OBq-aZtOOCjA%3D%3D",
+						"author": {
+							"name": "やまねこチャンネル【チャンネル登録者数100人目標】",
+							"thumbnail": "https://i.ytimg.com/vi/6eqEB2PgWig/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDscZ_vAB0rLfHMNQXphAmKTOcD8g"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "DZwISSDUTZI",
+						"duration": 3,
+						"title": "ただ君に晴れ - ヨルシカ 歌詞付き フル",
+						"thumbnail": "https://i.ytimg.com/vi/DZwISSDUTZI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHh9aCVnT6BFAQWzxzBUIlYKnhfQ",
+						"originalUrl": "https://www.youtube.com/watch?v=DZwISSDUTZI&pp=ygUf44Oo44Or44K344KrIOOBn-OBoOWQm-OBq-aZtOOCjA%3D%3D",
+						"author": {
+							"name": "high_note Music Lounge",
+							"thumbnail": "https://i.ytimg.com/vi/DZwISSDUTZI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHh9aCVnT6BFAQWzxzBUIlYKnhfQ"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "Ami6krjITk4",
+						"duration": 2,
+						"title": "ただ君に晴れ / ヨルシカ〔Grade3〕",
+						"thumbnail": "https://i.ytimg.com/vi/Ami6krjITk4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBPVSzC_6vOLEBFLScRTY5K3a0eQ",
+						"originalUrl": "https://www.youtube.com/watch?v=Ami6krjITk4&pp=ygUf44Oo44Or44K344KrIOOBn-OBoOWQm-OBq-aZtOOCjA%3D%3D",
+						"author": {
+							"name": "WindsScore",
+							"thumbnail": "https://i.ytimg.com/vi/Ami6krjITk4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBPVSzC_6vOLEBFLScRTY5K3a0eQ"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "AgxxyqFydR8",
+						"duration": 3,
+						"title": "【ガイドなし】ただ君に晴れ/ヨルシカ【カラオケ】",
+						"thumbnail": "https://i.ytimg.com/vi/AgxxyqFydR8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6Rv33N5zOHDe1z0I25w8b__30cw",
+						"originalUrl": "https://www.youtube.com/watch?v=AgxxyqFydR8&pp=ygUf44Oo44Or44K344KrIOOBn-OBoOWQm-OBq-aZtOOCjA%3D%3D",
+						"author": {
+							"name": "カラオケ歌っちゃ王",
+							"thumbnail": "https://i.ytimg.com/vi/AgxxyqFydR8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6Rv33N5zOHDe1z0I25w8b__30cw"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "cozJNWvLgRc",
+						"duration": 3,
+						"title": "×(修正版あり)【カラオケ】ただ君に晴れ / ヨルシカ",
+						"thumbnail": "https://i.ytimg.com/vi/cozJNWvLgRc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAS5sGKHjcORZRhqCByTJ6uVwWpBA",
+						"originalUrl": "https://www.youtube.com/watch?v=cozJNWvLgRc&pp=ygUf44Oo44Or44K344KrIOOBn-OBoOWQm-OBq-aZtOOCjA%3D%3D",
+						"author": {
+							"name": "カラオケ歌っちゃ王",
+							"thumbnail": "https://i.ytimg.com/vi/cozJNWvLgRc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAS5sGKHjcORZRhqCByTJ6uVwWpBA"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "5u1wYvpH9Dw",
+						"duration": 3,
+						"title": "ただ君に晴れ (ヨルシカ) ／ダズビー COVER",
+						"thumbnail": "https://i.ytimg.com/vi/5u1wYvpH9Dw/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg0IEwofzAP&rs=AOn4CLCIVhqRtDC-T2wpknvyD9tlkKQDNg",
+						"originalUrl": "https://www.youtube.com/watch?v=5u1wYvpH9Dw&pp=ygUf44Oo44Or44K344KrIOOBn-OBoOWQm-OBq-aZtOOCjA%3D%3D",
+						"author": {
+							"name": "DAZBEE official",
+							"thumbnail": "https://i.ytimg.com/vi/5u1wYvpH9Dw/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg0IEwofzAP&rs=AOn4CLCIVhqRtDC-T2wpknvyD9tlkKQDNg"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "ytAP6alUP8I",
+						"duration": 3,
+						"title": "【カラオケ練習】「ただ君に晴れ」/ ヨルシカ【期間限定】",
+						"thumbnail": "https://i.ytimg.com/vi/ytAP6alUP8I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBczpIfGyO6rCE874ae1hPqeXb2ag",
+						"originalUrl": "https://www.youtube.com/watch?v=ytAP6alUP8I&pp=ygUf44Oo44Or44K344KrIOOBn-OBoOWQm-OBq-aZtOOCjA%3D%3D",
+						"author": {
+							"name": "JOYSOUND CHANNEL",
+							"thumbnail": "https://i.ytimg.com/vi/ytAP6alUP8I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBczpIfGyO6rCE874ae1hPqeXb2ag"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "EY8mj4fbCXA",
+						"duration": 2,
+						"title": "🍀 ただ君に晴れ ー ヨルシカ　大阪桐蔭高校吹奏楽部",
+						"thumbnail": "https://i.ytimg.com/vi/EY8mj4fbCXA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOOstehmYj_xislUYIP2ySa6-_XA",
+						"originalUrl": "https://www.youtube.com/watch?v=EY8mj4fbCXA&pp=ygUf44Oo44Or44K344KrIOOBn-OBoOWQm-OBq-aZtOOCjA%3D%3D",
+						"author": {
+							"name": "Kenji Sebastian",
+							"thumbnail": "https://i.ytimg.com/vi/EY8mj4fbCXA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOOstehmYj_xislUYIP2ySa6-_XA"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "0d-15cKgwlk",
+						"duration": 3,
+						"title": "【歌ってみた】ただ君に晴れ/Covered by奏ノ音【ヨルシカ】",
+						"thumbnail": "https://i.ytimg.com/vi/0d-15cKgwlk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCA8zshScmj4OFeHJ5B5bw4QPH6sQ",
+						"originalUrl": "https://www.youtube.com/watch?v=0d-15cKgwlk&pp=ygUf44Oo44Or44K344KrIOOBn-OBoOWQm-OBq-aZtOOCjA%3D%3D",
+						"author": {
+							"name": "None ch. 奏 ノ音",
+							"thumbnail": "https://i.ytimg.com/vi/0d-15cKgwlk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCA8zshScmj4OFeHJ5B5bw4QPH6sQ"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "nMYK-fWyILM",
+						"duration": 3,
+						"title": "「ただ君に晴れ（Cloudless）」を弾いてみた【ピアノ】",
+						"thumbnail": "https://i.ytimg.com/vi/nMYK-fWyILM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAprzSl8K1tKm1lB02ty_HgLEaG1Q",
+						"originalUrl": "https://www.youtube.com/watch?v=nMYK-fWyILM&pp=ygUf44Oo44Or44K344KrIOOBn-OBoOWQm-OBq-aZtOOCjA%3D%3D",
+						"author": {
+							"name": "marasy8",
+							"thumbnail": "https://i.ytimg.com/vi/nMYK-fWyILM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAprzSl8K1tKm1lB02ty_HgLEaG1Q"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "5Msh3lmGb9M",
+						"duration": 2,
+						"title": "【ボイストレーナーが歌う】ただ君に晴れ / ヨルシカ【歌い方解説付き by シアーミュージック】",
+						"thumbnail": "https://i.ytimg.com/vi/5Msh3lmGb9M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDW0lLshscQI4yXbTa_gRNeR3kJzA",
+						"originalUrl": "https://www.youtube.com/watch?v=5Msh3lmGb9M&pp=ygUf44Oo44Or44K344KrIOOBn-OBoOWQm-OBq-aZtOOCjA%3D%3D",
+						"author": {
+							"name": "シアーミュージック",
+							"thumbnail": "https://i.ytimg.com/vi/5Msh3lmGb9M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDW0lLshscQI4yXbTa_gRNeR3kJzA"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "uBfntBg3ZBQ",
+						"duration": 2,
+						"title": "Who is Princess？ - ‘ただ君に晴れ(ヨルシカ)’ MISSION2 STAGE HONOKA ver.",
+						"thumbnail": "https://i.ytimg.com/vi/uBfntBg3ZBQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7euPOzW7Op2G4X5qhNrCQpGBURQ",
+						"originalUrl": "https://www.youtube.com/watch?v=uBfntBg3ZBQ&pp=ygUf44Oo44Or44K344KrIOOBn-OBoOWQm-OBq-aZtOOCjA%3D%3D",
+						"author": {
+							"name": "PRIKIL Official",
+							"thumbnail": "https://i.ytimg.com/vi/uBfntBg3ZBQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7euPOzW7Op2G4X5qhNrCQpGBURQ"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "FeGijn77UjI",
+						"duration": 3,
+						"title": "【叩いてみた】ただ君に晴れ　ヨルシカ　/tada kimi ni hare  yorushika  drumcover",
+						"thumbnail": "https://i.ytimg.com/vi/FeGijn77UjI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5Ddphk5Dl2VE0CgyBq-g_k8KnSw",
+						"originalUrl": "https://www.youtube.com/watch?v=FeGijn77UjI&pp=ygUf44Oo44Or44K344KrIOOBn-OBoOWQm-OBq-aZtOOCjA%3D%3D",
+						"author": {
+							"name": "Y2 drums",
+							"thumbnail": "https://i.ytimg.com/vi/FeGijn77UjI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5Ddphk5Dl2VE0CgyBq-g_k8KnSw"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "AmMjlfgFwr4",
+						"duration": 3,
+						"title": "ただ君に晴れ / ヨルシカ /YORUSHIKA - Tada Kimi ni Hare (Covered by コバソロ & 藤川千愛)",
+						"thumbnail": "https://i.ytimg.com/vi/AmMjlfgFwr4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxhQ5Xj1o-6OOPVhY4PgS8vlEwkw",
+						"originalUrl": "https://www.youtube.com/watch?v=AmMjlfgFwr4&pp=ygUf44Oo44Or44K344KrIOOBn-OBoOWQm-OBq-aZtOOCjA%3D%3D",
+						"author": {
+							"name": "kobasolo",
+							"thumbnail": "https://i.ytimg.com/vi/AmMjlfgFwr4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxhQ5Xj1o-6OOPVhY4PgS8vlEwkw"
+						}
+					}
+				],
+				"uuid": "bae1a50b-2cf2-4049-bba6-3cb97749d062"
+			}
+		},
+		{
+			"status": "Finished",
+			"completion": 1,
+			"track": {
+				"artist": "ヨルシカ",
+				"name": "言って。",
+				"thumbnail": "https://i.discogs.com/ZcPsZ5UCs1OSkSadt3QMx9i4yWnFDQw4OfplAjGwOCo/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTcxNTY3/MjktMTU1Nzg3MTI2/NS02OTA3LmpwZWc.jpeg",
+				"streams": [
+					{
+						"id": "F64yFFnZfkI",
+						"source": "Youtube",
+						"stream": "https://rr4---sn-8qj-i5ose.googlevideo.com/videoplayback?expire=1694522450&ei=8gcAZbuHLfqOz7sPnt2F8AU&ip=14.241.57.126&id=o-AMck71tshQqVVBt_-PnsnPK1rEDEt3Doxnon-Nkxxzp9&itag=251&source=youtube&requiressl=yes&mh=2B&mm=31%2C26&mn=sn-8qj-i5ose%2Csn-ogul7n76&ms=au%2Conr&mv=m&mvi=4&pl=26&initcwndbps=1390000&spc=UWF9f4EHsCIK7YBNP8--QESuUH9VgSDhf9OzwGo9UA&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=ztSTzAwKLy06338cCDt2Kv4P&gir=yes&clen=3932277&dur=243.401&lmt=1570328853272284&mt=1694500401&fvip=5&keepalive=yes&fexp=24007246&beids=24350018&c=WEB&txp=5531432&n=BVfybkRYM-1tkA&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhANZZ9rgSeeqPQD8IP7pv0pcNIpxcUXYq9nnijxF5x_lvAiEAipd7TtiIzkRUmssojMvgforg1aoS89Mbmc8FzDqriJ4%3D&sig=AOq0QJ8wRgIhAOArUtcXH0h6s-tDxXUdUiLilHHrcH8WxOgpq51mDXqDAiEAgiuS0TIJnSLMsX1Tpf_n2R875Q4RCxiJrb1pwpyUKiI%3D",
+						"duration": 244,
+						"title": "ヨルシカ - 言って。(Music Video)",
+						"format": "webm",
+						"skipSegments": [
+							{
+								"category": "music_offtopic",
+								"startTime": 0,
+								"endTime": 1
+							},
+							{
+								"category": "music_offtopic",
+								"startTime": 240,
+								"endTime": 243
+							}
+						],
+						"originalUrl": "http://www.youtube.com/watch?v=F64yFFnZfkI",
+						"isLive": false,
+						"author": {
+							"name": "ヨルシカ / n-buna Official",
+							"thumbnail": "https://yt3.ggpht.com/ytc/AOPolaSZ9vxwIpPvWHwgr3D2trdHWrriqfxoWsdz0QVe=s48-c-k-c0x00ffffff-no-rj-mo"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "xwO-lo7nHZQ",
+						"duration": 4,
+						"title": "言って。 / ヨルシカ - ギター弾いてみた【TAB譜付き】 / Yorushika - Itte",
+						"thumbnail": "https://i.ytimg.com/vi/xwO-lo7nHZQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJg8mwU5wU3b062TdigLLjRwcfyw",
+						"originalUrl": "https://www.youtube.com/watch?v=xwO-lo7nHZQ&pp=ygUZ44Oo44Or44K344KrIOiogOOBo-OBpuOAgg%3D%3D",
+						"author": {
+							"name": "ヨルシカのギター全曲弾いてみたいチャンネル",
+							"thumbnail": "https://i.ytimg.com/vi/xwO-lo7nHZQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJg8mwU5wU3b062TdigLLjRwcfyw"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "9lVPAWLWtWc",
+						"duration": 4,
+						"title": "ヨルシカ - 花に亡霊（OFFICIAL VIDEO）",
+						"thumbnail": "https://i.ytimg.com/vi/9lVPAWLWtWc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDI4qxWo7vS2B3wgmtUCzky5N5VBQ",
+						"originalUrl": "https://www.youtube.com/watch?v=9lVPAWLWtWc&pp=ygUZ44Oo44Or44K344KrIOiogOOBo-OBpuOAgg%3D%3D",
+						"author": {
+							"name": "ヨルシカ / n-buna Official",
+							"thumbnail": "https://i.ytimg.com/vi/9lVPAWLWtWc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDI4qxWo7vS2B3wgmtUCzky5N5VBQ"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "6bYP_KBUaBo",
+						"duration": 4,
+						"title": "【ライブ音響】ヨルシカ-言って。",
+						"thumbnail": "https://i.ytimg.com/vi/6bYP_KBUaBo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDelMOddMatrF1YwLuMXDuVbKGdDw",
+						"originalUrl": "https://www.youtube.com/watch?v=6bYP_KBUaBo&pp=ygUZ44Oo44Or44K344KrIOiogOOBo-OBpuOAgg%3D%3D",
+						"author": {
+							"name": "Neo Sound",
+							"thumbnail": "https://i.ytimg.com/vi/6bYP_KBUaBo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDelMOddMatrF1YwLuMXDuVbKGdDw"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "fC16Idd-4So",
+						"duration": 1,
+						"title": "【作業用BGM】言って。【ヨルシカ】",
+						"thumbnail": "https://i.ytimg.com/vi/fC16Idd-4So/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoutanrIeoKWb3d-H6ZbFDomyQyQ",
+						"originalUrl": "https://www.youtube.com/watch?v=fC16Idd-4So&pp=ygUZ44Oo44Or44K344KrIOiogOOBo-OBpuOAgg%3D%3D",
+						"author": {
+							"name": "めたもん。",
+							"thumbnail": "https://i.ytimg.com/vi/fC16Idd-4So/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoutanrIeoKWb3d-H6ZbFDomyQyQ"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "WIfleHqox_A",
+						"duration": 4,
+						"title": "言って。/ ヨルシカ　cover　鹿乃",
+						"thumbnail": "https://i.ytimg.com/vi/WIfleHqox_A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqPx_WpqZ7WZOo2zZg_diNDJeVuw",
+						"originalUrl": "https://www.youtube.com/watch?v=WIfleHqox_A&pp=ygUZ44Oo44Or44K344KrIOiogOOBo-OBpuOAgg%3D%3D",
+						"author": {
+							"name": "鹿乃 / MKLNtic",
+							"thumbnail": "https://i.ytimg.com/vi/WIfleHqox_A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqPx_WpqZ7WZOo2zZg_diNDJeVuw"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "yUWyjP0GlpI",
+						"duration": 4,
+						"title": "ヨルシカ - 「言って。」 / Guitar Cover",
+						"thumbnail": "https://i.ytimg.com/vi/yUWyjP0GlpI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9QcuS-3gP3cU8rUlCspWpoIW77g",
+						"originalUrl": "https://www.youtube.com/watch?v=yUWyjP0GlpI&pp=ygUZ44Oo44Or44K344KrIOiogOOBo-OBpuOAgg%3D%3D",
+						"author": {
+							"name": "Yewon",
+							"thumbnail": "https://i.ytimg.com/vi/yUWyjP0GlpI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD9QcuS-3gP3cU8rUlCspWpoIW77g"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "W-7NtzTP4Bk",
+						"duration": 4,
+						"title": "言って。- ヨルシカ / Cover by darlim",
+						"thumbnail": "https://i.ytimg.com/vi/W-7NtzTP4Bk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpwlWzLAFHNjcFXy45cGA_l1av4w",
+						"originalUrl": "https://www.youtube.com/watch?v=W-7NtzTP4Bk&pp=ygUZ44Oo44Or44K344KrIOiogOOBo-OBpuOAgg%3D%3D",
+						"author": {
+							"name": "Darlim",
+							"thumbnail": "https://i.ytimg.com/vi/W-7NtzTP4Bk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpwlWzLAFHNjcFXy45cGA_l1av4w"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "KTZ-y85Erus",
+						"duration": 4,
+						"title": "ヨルシカ - だから僕は音楽を辞めた (Music Video)",
+						"thumbnail": "https://i.ytimg.com/vi/KTZ-y85Erus/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYFtrdP6uDQBz9afK0SBn1Vf9BMg",
+						"originalUrl": "https://www.youtube.com/watch?v=KTZ-y85Erus&pp=ygUZ44Oo44Or44K344KrIOiogOOBo-OBpuOAgg%3D%3D",
+						"author": {
+							"name": "ヨルシカ / n-buna Official",
+							"thumbnail": "https://i.ytimg.com/vi/KTZ-y85Erus/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYFtrdP6uDQBz9afK0SBn1Vf9BMg"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "EkisvG986Bs",
+						"duration": 4,
+						"title": "言って。 - ヨルシカ (Piano Cover) Say it - Yorushika",
+						"thumbnail": "https://i.ytimg.com/vi/EkisvG986Bs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA712UQLd8YOnNb8D6S4x0_j8FcGw",
+						"originalUrl": "https://www.youtube.com/watch?v=EkisvG986Bs&pp=ygUZ44Oo44Or44K344KrIOiogOOBo-OBpuOAgg%3D%3D",
+						"author": {
+							"name": "深根 / Fukane",
+							"thumbnail": "https://i.ytimg.com/vi/EkisvG986Bs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA712UQLd8YOnNb8D6S4x0_j8FcGw"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "NVhB9TvcxB8",
+						"duration": 4,
+						"title": "【叩いてみた】言って。　ヨルシカ　/itte  yorushika  drumcover",
+						"thumbnail": "https://i.ytimg.com/vi/NVhB9TvcxB8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5ajJZYsn-kD0yregPzh2C_QkixA",
+						"originalUrl": "https://www.youtube.com/watch?v=NVhB9TvcxB8&pp=ygUZ44Oo44Or44K344KrIOiogOOBo-OBpuOAgg%3D%3D",
+						"author": {
+							"name": "Y2 drums",
+							"thumbnail": "https://i.ytimg.com/vi/NVhB9TvcxB8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5ajJZYsn-kD0yregPzh2C_QkixA"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "No6GiJWAao8",
+						"duration": 4,
+						"title": "【tab譜有】 ヨルシカ 言って。 ベース カバー 【弾いてみた】 【Bass】 【Cover】",
+						"thumbnail": "https://i.ytimg.com/vi/No6GiJWAao8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFFof1n4zYckQ82t7WI-xNKrJijA",
+						"originalUrl": "https://www.youtube.com/watch?v=No6GiJWAao8&pp=ygUZ44Oo44Or44K344KrIOiogOOBo-OBpuOAgg%3D%3D",
+						"author": {
+							"name": "MIYA - Bass Drums Covers -",
+							"thumbnail": "https://i.ytimg.com/vi/No6GiJWAao8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFFof1n4zYckQ82t7WI-xNKrJijA"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "eqdPSjjeyAM",
+						"duration": 4,
+						"title": "言って。 - ヨルシカ （Say it - Yorushika）/ 【月-Tsuki- COVER】",
+						"thumbnail": "https://i.ytimg.com/vi/eqdPSjjeyAM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFxMwrEiD_npiW3C6epWs07rYchQ",
+						"originalUrl": "https://www.youtube.com/watch?v=eqdPSjjeyAM&pp=ygUZ44Oo44Or44K344KrIOiogOOBo-OBpuOAgg%3D%3D",
+						"author": {
+							"name": "月-Tsuki-",
+							"thumbnail": "https://i.ytimg.com/vi/eqdPSjjeyAM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFxMwrEiD_npiW3C6epWs07rYchQ"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "Sv4NZQCXuU0",
+						"duration": 4,
+						"title": "【ヨルシカ】言って。-叩いてみた【ドラム楽譜あり】(Say it/Yorushika)【Drum Cover】",
+						"thumbnail": "https://i.ytimg.com/vi/Sv4NZQCXuU0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0bUiwYKzxUQypTwl-4FH9F7nw3w",
+						"originalUrl": "https://www.youtube.com/watch?v=Sv4NZQCXuU0&pp=ygUZ44Oo44Or44K344KrIOiogOOBo-OBpuOAgg%3D%3D",
+						"author": {
+							"name": "だいち-Daichi Drums",
+							"thumbnail": "https://i.ytimg.com/vi/Sv4NZQCXuU0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0bUiwYKzxUQypTwl-4FH9F7nw3w"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "YqwUE-hpAtE",
+						"duration": 4,
+						"title": "【Bass初心者さんオススメ！】ヨルシカ/言って。【Bass簡単アレンジVer】５線譜&Tab譜付き【Bass cover】",
+						"thumbnail": "https://i.ytimg.com/vi/YqwUE-hpAtE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRn9ZYwvUtXIq9ETvJVhBidzpQFQ",
+						"originalUrl": "https://www.youtube.com/watch?v=YqwUE-hpAtE&pp=ygUZ44Oo44Or44K344KrIOiogOOBo-OBpuOAgg%3D%3D",
+						"author": {
+							"name": "JJ Music Farm",
+							"thumbnail": "https://i.ytimg.com/vi/YqwUE-hpAtE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRn9ZYwvUtXIq9ETvJVhBidzpQFQ"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "Z5S27ylmhf4",
+						"duration": 4,
+						"title": "【星街すいせい】言って。(Say It.) / ヨルシカ【歌枠切り抜き】(2021/08/29) Hoshimachi Suisei",
+						"thumbnail": "https://i.ytimg.com/vi/Z5S27ylmhf4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWoiXbh2jLcjytFE6x1zIpHH2Pyw",
+						"originalUrl": "https://www.youtube.com/watch?v=Z5S27ylmhf4&pp=ygUZ44Oo44Or44K344KrIOiogOOBo-OBpuOAgg%3D%3D",
+						"author": {
+							"name": "こじまてる Kojimateru",
+							"thumbnail": "https://i.ytimg.com/vi/Z5S27ylmhf4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWoiXbh2jLcjytFE6x1zIpHH2Pyw"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "JC07VcLg0UE",
+						"duration": 1,
+						"title": "ヨルシカ - 言って cover",
+						"thumbnail": "https://i.ytimg.com/vi/JC07VcLg0UE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0fau8aaLY38ccZywKxPd7dQETWw",
+						"originalUrl": "https://www.youtube.com/watch?v=JC07VcLg0UE&pp=ygUZ44Oo44Or44K344KrIOiogOOBo-OBpuOAgg%3D%3D",
+						"author": {
+							"name": "163braces",
+							"thumbnail": "https://i.ytimg.com/vi/JC07VcLg0UE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0fau8aaLY38ccZywKxPd7dQETWw"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "-y5tZ_yFM8U",
+						"duration": 4,
+						"title": "言って (ヨルシカ)／ダズビー  COVER",
+						"thumbnail": "https://i.ytimg.com/vi/-y5tZ_yFM8U/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhMIGMoZTAP&rs=AOn4CLCNwWPy-h5sOqmIvOg1i9HwtIuPgA",
+						"originalUrl": "https://www.youtube.com/watch?v=-y5tZ_yFM8U&pp=ygUZ44Oo44Or44K344KrIOiogOOBo-OBpuOAgg%3D%3D",
+						"author": {
+							"name": "DAZBEE official",
+							"thumbnail": "https://i.ytimg.com/vi/-y5tZ_yFM8U/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhMIGMoZTAP&rs=AOn4CLCNwWPy-h5sOqmIvOg1i9HwtIuPgA"
+						}
+					},
+					{
+						"source": "Youtube",
+						"id": "uLJrnI8i_bg",
+						"duration": 1,
+						"title": "1時間耐久  ヨルシカ「言って」作業用BGM",
+						"thumbnail": "https://i.ytimg.com/vi/uLJrnI8i_bg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWEBWNI4_PPhds4cDAwx7pM_aXZw",
+						"originalUrl": "https://www.youtube.com/watch?v=uLJrnI8i_bg&pp=ygUZ44Oo44Or44K344KrIOiogOOBo-OBpuOAgg%3D%3D",
+						"author": {
+							"name": "佐藤潮",
+							"thumbnail": "https://i.ytimg.com/vi/uLJrnI8i_bg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWEBWNI4_PPhds4cDAwx7pM_aXZw"
+						}
+					}
+				],
+				"uuid": "c7006c43-9658-4e0d-ae94-594edc5038d3"
+			}
+		}
+	],
+	"equalizer": {
+		"custom": {
+			"label": "custom",
+			"id": "custom",
+			"values": [],
+			"preAmp": 0
+		},
+		"selected": "rock",
+		"enableSpectrum": true
+	},
+	"last-thumb-clean-date": 1694500706961,
+	"nuclear": {
+		"identity": {}
+	},
+	"plugin": {
+		"selected": {
+			"metaProviders": "Discogs Metadata Provider",
+			"streamProviders": "Youtube",
+			"lyricsProviders": "Simple Lyrics Provider"
+		}
+	}
+}
